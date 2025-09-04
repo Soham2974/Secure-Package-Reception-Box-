@@ -65,4 +65,5 @@ The project addresses the issue of **package theft (porch piracy)** with a **sec
 
 ---
 ## Support
-For more information or assistance, feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/soham-ghadigaonkar-2b8827239/).
+For more details, connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ghadigaonkar-2b8827239/)
+[![Discord](https://img.shields.io/badge/discord-join%20chat-7289da?logo=discord&style=for-the-badge)](https://discord.gg/soham.2974)
